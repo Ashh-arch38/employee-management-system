@@ -64,8 +64,8 @@ mindmap
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
-cd Employee-Management/backend
+git clone https://github.com/Ashh-arch38/employee-management-system.git
+cd employee-management-system/backend
 ```
 
 ### 2. Install Dependencies
@@ -254,6 +254,6 @@ For more information about this project, please refer to the comprehensive [docu
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please open an issue on the repository.
 
 ---

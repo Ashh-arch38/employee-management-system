@@ -211,7 +211,7 @@ The page includes SEO meta tags:
 ```html
 <meta name="description" content="Employee Management Full-Stack Application...">
 <meta name="keywords" content="Employee Management, Spring Boot, React...">
-<meta name="author" content="Son Nguyen">
+<meta name="author" content="Ashh-arch38">
 ```
 
 ## 🎨 Animations
@@ -275,7 +275,7 @@ This wiki page is part of the Employee Management System project and is licensed
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww)
+Created with ❤️ by [Ashh-arch38](https://github.com/Ashh-arch38)
 
 ---
 

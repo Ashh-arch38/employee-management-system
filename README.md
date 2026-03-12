@@ -370,7 +370,7 @@ Ensure that you have Java 11 installed on your local machine. If not, follow the
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/Ashh-arch38/employee-management-system.git
 cd Employee-Management-Fullstack-App  # Fix the paths if necessary
 cd backend
 ```
@@ -533,7 +533,7 @@ Feel free to add more tests as needed to ensure the reliability and correctness 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/Ashh-arch38/employee-management-system.git
 cd Employee-Management-Fullstack-App  # Fix the paths if necessary
 cd frontend
 ```
@@ -641,7 +641,7 @@ docker push <your_docker_username>/employee-management-app-backend
 docker push <your_docker_username>/employee-management-app-frontend
 ```
 
-Additionally, you can access the image on **Docker Hub** **[here](https://hub.docker.com/repository/docker/hoangsonw/employee-management-app/).**
+You can build and push the Docker images to your own Docker Hub repository.
 
 ```mermaid
 flowchart LR
@@ -949,13 +949,13 @@ This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please open an issue on the repository.
 
 ---
 
 Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+Created with ❤️ by [Ashh-arch38](https://github.com/Ashh-arch38).
 
 ---
 

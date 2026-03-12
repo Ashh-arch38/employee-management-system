@@ -22,11 +22,7 @@ We backport critical and high-severity security fixes to the latest two minor ve
 
 If you discover a security issue in our code or infrastructure, please report it privately:
 
-1. **Email**:
-
-   ```text
-   hoangson091104@gmail.com
-   ```
+1. **Report privately**: Open a [security advisory](https://github.com/Ashh-arch38/employee-management-system/security/advisories/new) on this repository.
 
 2. **PGP Key** (fingerprint):
 

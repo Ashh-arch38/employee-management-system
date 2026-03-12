@@ -2,14 +2,14 @@
   "name": "employee-management-system-frontend",
   "displayName": "Employee Management System Frontend",
   "version": "1.1.0",
-  "author": "Son Nguyen",
+  "author": "Ashh-arch38",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/Employee-Management-Fullstack-App.git"
+    "url": "git+https://github.com/Ashh-arch38/employee-management-system.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangsonww/Employee-Management-Fullstack-App/issues"
+    "url": "https://github.com/Ashh-arch38/employee-management-system/issues"
   },
   "homepage": "/",
   "description": "The frontend of the Employee Management Fullstack App",
